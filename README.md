@@ -12,6 +12,8 @@ Power Bi Visualization :
 Dataset :
 Used multiple CSV file 
 
+Screenshot :
+![image alt](https://github.com/truptirohankar/classic_models_dashboard_powerbi/blob/dd2cfbeec6639fc4575056f76ea887c4a1fc8098/Screenshot%202026-06-19%20173304.png)
 
 
 
